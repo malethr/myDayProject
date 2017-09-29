@@ -6,9 +6,9 @@
 
 ## Description
 
-_This is webpage that provide details on how i spend my 8 hours in a typical Friday to improve my development skills._
+_This is webpage that provide details on how i spend my time in a typical Friday to improve my development skills._
 
-[Click here](https://malethr.github.io/myDayProject/) to check my webpage.
+[Click here](https://malethr.github.io/myDayProject) to check my webpage.
 
 ## Setup/Installation Requirements
 
