@@ -22,7 +22,7 @@ body {
 }
 
 .lists{
-  top: 20%;
+  top: 25%;
   bottom: 0;
   position: fixed;
   overflow-y:scroll;
@@ -35,5 +35,5 @@ img{
 
 a{
   background-color: yellow;
-  color: black; 
+  color: black;
 }
