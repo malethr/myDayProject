@@ -1,0 +1,34 @@
+body {
+  color: white;
+  background-image: url("../images/background.jpg");
+  background-size: 100%;
+  background-position-x: center;
+  background-position-y: center;
+  background-size:cover;
+  background-repeat: no-repeat;
+  height: 100%;
+  font-family: monospace;
+}
+
+.panel-body{
+  background-color: black;
+  opacity: .85
+}
+
+.jumbotron{
+  background-color: transparent;
+  border-bottom: 1px dashed white;
+  text-align: center;
+}
+
+.lists{
+  top: 20%;
+  bottom: 0;
+  position: fixed;
+  overflow-y:scroll;
+}
+
+img{
+  width: 400px;
+  height: auto;
+}
