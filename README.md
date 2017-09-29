@@ -1,4 +1,4 @@
-# _My Typical Friday_
+# _My Friday Project_
 
 #### _A detailed list of my activies for Friday, September 29, 2017_
 
